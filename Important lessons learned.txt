@@ -1,0 +1,4 @@
+sys/socket.h - is for mac and linux drivers, not available for windows so don't spend hours looking for them
+
+Use Visual Studio and not visual studio code - some fo the functions are not available or aren't compatible with VSC
+so use visual studio

@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\mmje5\desktop\coding self taught\c_server\c_server\main.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C_Server.vcxproj -> C:\Users\mmje5\Desktop\Coding Self Taught\C_Server\x64\Debug\C_Server.exe
